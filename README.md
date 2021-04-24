@@ -1,5 +1,6 @@
 ### Hi there 👋
-Born at a very young age.  Hobbies include reading pornography and killing squirrels.
+
+I currently write services in .NET for corporate clients. My career in software started in the 80's on the beloved BBCs and Commodore 64s.
 
 Here are some ideas to get you started:
 
