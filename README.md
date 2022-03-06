@@ -1,4 +1,4 @@
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/SteveDunn) [![Twitter Follow](https://img.shields.io/twitter/follow/SteveDunn.svg?style=social&label=Follow)](https://twitter.com/SteveDunn)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter)](https://twitter.com/SteveDunn)
 
 ### Hi there 👋
 
