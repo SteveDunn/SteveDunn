@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevedunn&label=Profile%20views&color=0e75b6&style=flat" alt="stevedunn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevedunn" alt="stevedunn" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/stevedunn" target="blank"><img src="https://img.shields.io/twitter/follow/stevedunn?logo=twitter&style=for-the-badge" alt="stevedunn" /></a> </p>
 
 - 🔭 I’m currently working on curing Primitive Obsession with [Vogen](https://github.com/SteveDunn/Vogen)
@@ -20,6 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stevedunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stevedunn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/steve-dunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="steve-dunn" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/stevedunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stevedunn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
