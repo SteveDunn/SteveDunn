@@ -23,6 +23,10 @@
 - [Fixing SQLite errors in Xunit tests](https://dunnhq.com/posts/2022/sqlite-multi-target/)
 <!-- BLOG-POST-LIST:END -->
 
+# Stack Overflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stevedunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stevedunn" height="30" width="40" /></a>
