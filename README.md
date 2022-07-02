@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Viewing .NET configuration values](https://dunnhq.com/posts/2022/viewing-configuration-values/)
 - [Implementing a defaultable collection in C#](https://dunnhq.com/posts/2022/defaultable-collections/)
 - [Parameter Null Checking in C# 11 and the ThrowHelper pattern](https://dunnhq.com/posts/2022/throw-helper/)
 - [Debug attributes in .NET](https://dunnhq.com/posts/2022/debugger-attributes/)
-- [Fixing SQLite errors in Xunit tests](https://dunnhq.com/posts/2022/sqlite-multi-target/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow Activity
