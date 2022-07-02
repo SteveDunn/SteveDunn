@@ -25,6 +25,11 @@
 
 # Stack Overflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Steve Dunn for What is the .net framework Reference Assemblies Facades folder used for?](https://stackoverflow.com/questions/48405764/what-is-the-net-framework-reference-assemblies-facades-folder-used-for/71160997#71160997)
+- [Answer by Steve Dunn for Using ReSharper, how to show debug output during a long-running unit test?](https://stackoverflow.com/questions/15092438/using-resharper-how-to-show-debug-output-during-a-long-running-unit-test/70401665#70401665)
+- [Are there any libraries to provide diagnostics on TPL dataflow blocks?](https://stackoverflow.com/questions/69087555/are-there-any-libraries-to-provide-diagnostics-on-tpl-dataflow-blocks)
+- [When returning a `202` containing a status endpoint, what status code should that endpoint return?](https://stackoverflow.com/questions/63195621/when-returning-a-202-containing-a-status-endpoint-what-status-code-should-tha)
+- [Answer by Steve Dunn for Is it possible to open outlook or word&lpar;MS Word&rpar; in client machine from a web application in MVC5](https://stackoverflow.com/questions/56461062/is-it-possible-to-open-outlook-or-wordms-word-in-client-machine-from-a-web-app/56461575#56461575)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
