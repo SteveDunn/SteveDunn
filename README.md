@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with a bug in [PAC-MAN Blazor](https://github.com/SteveDunn/PacManBlazor/issues/2)
 
-- 📝 I regularly write articles on [https://dunnhq.com](https://dunnhq.com)
+- 📝 I occasionally write articles on [https://dunnhq.com](https://dunnhq.com)
 
 - 📫 How to reach me **@stevedunn**
 
