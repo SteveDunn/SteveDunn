@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pernicious Nulls - using and abusing nulls in C#](https://dunnhq.com/posts/2022/pernicious-nulls/)
 - [Viewing .NET configuration values](https://dunnhq.com/posts/2022/viewing-configuration-values/)
 - [Implementing a defaultable collection in C#](https://dunnhq.com/posts/2022/defaultable-collections/)
 - [Parameter Null Checking in C# 11 and the ThrowHelper pattern](https://dunnhq.com/posts/2022/throw-helper/)
-- [Debug attributes in .NET](https://dunnhq.com/posts/2022/debugger-attributes/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow Activity
