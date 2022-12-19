@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevedunn&label=Profile%20views&color=0e75b6&style=flat" alt="stevedunn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/stevedunn" target="blank"><img src="https://img.shields.io/twitter/follow/stevedunn?logo=twitter&style=for-the-badge" alt="stevedunn" /></a> </p>
-
 - 🔭 I’m currently working on curing Primitive Obsession with [Vogen](https://github.com/SteveDunn/Vogen)
+
+- 🗣 I’m on Mastodon https://mastodonapp.uk/@stevedunn
+
+- 🗣 I’m on Twitter https://twitter.com/stevedunn
 
 - 👯 I’m looking to collaborate on [Vogen](https://github.com/SteveDunn/Vogen)
 
