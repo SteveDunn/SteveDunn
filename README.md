@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Preferring test-doubles over mocking frameworks](https://dunnhq.com/posts/2024/test-doubles-over-mocking/)
 - [Documentation Quadrants - The Grand Unified Theory of Documentation](https://dunnhq.com/posts/2023/documentation-quadrants/)
 - [Code Coverage Metrics](https://dunnhq.com/posts/2023/code-coverage-metrics/)
 - [Pernicious Nulls - using and abusing nulls in C#](https://dunnhq.com/posts/2022/pernicious-nulls/)
-- [Viewing .NET configuration values](https://dunnhq.com/posts/2022/viewing-configuration-values/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow Activity
