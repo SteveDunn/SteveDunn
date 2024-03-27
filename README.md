@@ -27,11 +27,11 @@
 
 # Stack Overflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Steve Dunn for Strongly-typed integers](https://stackoverflow.com/questions/3448554/strongly-typed-integers/78234743#78234743)
 - [How can I share a custom dictionary between JetBrains Rider users and Visual Studio users?](https://stackoverflow.com/questions/76962839/how-can-i-share-a-custom-dictionary-between-jetbrains-rider-users-and-visual-stu)
 - [Answer by Steve Dunn for How do I get .NET Feature Management to use config in User Secrets?](https://stackoverflow.com/questions/74876164/how-do-i-get-net-feature-management-to-use-config-in-user-secrets/74877522#74877522)
 - [How do I get .NET Feature Management to use config in User Secrets?](https://stackoverflow.com/questions/74876164/how-do-i-get-net-feature-management-to-use-config-in-user-secrets)
 - [Answer by Steve Dunn for What is the .net framework Reference Assemblies Facades folder used for?](https://stackoverflow.com/questions/48405764/what-is-the-net-framework-reference-assemblies-facades-folder-used-for/71160997#71160997)
-- [Answer by Steve Dunn for Using ReSharper, how to show debug output during a long-running unit test?](https://stackoverflow.com/questions/15092438/using-resharper-how-to-show-debug-output-during-a-long-running-unit-test/70401665#70401665)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
