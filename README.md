@@ -41,7 +41,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://mastodonapp.uk/web/@stevedunn" rel="me" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="@stevedunn" height="30" width="40" /></a>
-
 <a href="https://twitter.com/stevedunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stevedunn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/steve-dunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="steve-dunn" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/stevedunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stevedunn" height="30" width="40" /></a>
