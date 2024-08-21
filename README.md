@@ -2,7 +2,7 @@
 <h3 align="center">I currently write services in .NET for corporate clients. My career in software started in the 80's on the beloved BBCs and Commodore 64s.</h3>
 
 [![X](https://img.shields.io/badge/X-@stevedunn-blue?logo=twitter&logoColor=1D9BF0&labelColor=black)](https://x.com/stevedunn)
-[!LinkedIn(https://img.shields.io/badge/LinkedIn-stevejdunn-0A66C2.svg?logo=linkedin&logoColor=0A66C2&labelColor=silver))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-stevejdunn-0A66C2.svg?logo=linkedin&logoColor=0A66C2&labelColor=silver)](https://www.linkedin.com/in/stevejdunn/)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevedunn&label=Profile%20views&color=0e75b6&style=flat" alt="stevedunn" /> </p>
