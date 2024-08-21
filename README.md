@@ -59,5 +59,3 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/stevedunn?logo=GitHub&label=@stevedunn%20followers)](https://github.com/stevedunn)
 [![GitHub stars](https://img.shields.io/github/stars/stevedunn?logo=GitHub&label=@stevedunn%20stars&affiliations=OWNER,COLLABORATOR&color=FFC83D)](https://github.com/stevedunn)
-[![GitHub followers](https://img.shields.io/github/followers/stevedunn?logo=GitHub&label=@devlooped%20followers)](https://github.com/stevedunn)
-[![GitHub Org's stars](https://img.shields.io/github/stars/stevedunn?logo=GitHub&label=@stevedunn%20stars)](https://github.com/stevedunn)
