@@ -7,7 +7,7 @@
 
 - 🗣 ~~I’m on Twitter https://twitter.com/stevedunn~~
 
-- 🗣 I’m on BlueSky [https://mastodonapp.uk/@stevedunn](https://bsky.app/profile/dunnhq.com)
+- 🗣 I’m on 🦋 [BlueSky](https://bsky.app/profile/dunnhq.com)
 
 - 👯 I’m looking to collaborate on [Vogen](https://github.com/SteveDunn/Vogen)
 
