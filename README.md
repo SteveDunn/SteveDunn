@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on curing Primitive Obsession with [Vogen](https://github.com/SteveDunn/Vogen)
 
-- 🗣 I’m on Mastodon https://mastodonapp.uk/@stevedunn
+- 🗣 ~~I’m on Twitter https://twitter.com/stevedunn~~
 
-- 🗣 I’m on Twitter https://twitter.com/stevedunn
+- 🗣 I’m on BlueSky [https://mastodonapp.uk/@stevedunn](https://bsky.app/profile/dunnhq.com)
 
 - 👯 I’m looking to collaborate on [Vogen](https://github.com/SteveDunn/Vogen)
 
@@ -36,8 +36,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://mastodonapp.uk/web/@stevedunn" rel="me" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="@stevedunn" height="30" width="40" /></a>
-<a href="https://twitter.com/stevedunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stevedunn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/steve-dunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="steve-dunn" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/stevedunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stevedunn" height="30" width="40" /></a>
 <a href="/https://dunnhq.com/feed/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dunnhq.com/feed/feed.xml" height="30" width="40" /></a>
