@@ -15,7 +15,7 @@
 
 - 📝 I occasionally write articles on [https://dunnhq.com](https://dunnhq.com)
 
-- 📫 How to reach me **@stevedunn**
+- 📫 How to reach me steve@dunnhq.com
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
